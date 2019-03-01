@@ -1,6 +1,6 @@
 # DWaveResearch
 
-The goal of this repository is to document my usage of the DWave quantum computer and to provide a complete reference for those begining to use the DWave Leap SDK. I will document any useful documentation, YouTube vidoes, or forumns that will allow individuals who have no prior expirence  with quantum qomputers to effectively leverage the the benefits of quantum computation and the DWave Leap SDK for traditional programs.
+The goal of this repository is to document my usage of the DWave quantum computer and to provide a complete reference for those begining to use the DWave Leap SDK. I will document any useful documentation, YouTube vidoes, or forumns that will allow individuals who have no prior expirence  with quantum computers to effectively leverage the benefits of quantum computation and the DWave Leap SDK for traditional programs.
 
 ## Getting Started
 
