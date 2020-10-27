@@ -51,6 +51,7 @@ The code used in the example in the video is contained within the repository und
 ![antenasresult1](https://user-images.githubusercontent.com/30187786/53666059-18e66480-3c3b-11e9-9653-244f9f0492b6.png)
 
 ## K-Means Clustering Algorithm
-This is the results of our investigation into developing a k-means clustering algorithm with the D-Wave Quantum Annealer.
+This is the results of our investigation into developing a k-means clustering algorithm with the D-Wave Quantum Annealer:
+
 ![PosterTemplate For Colloquium 2019](https://user-images.githubusercontent.com/30187786/97248061-5536e300-17d7-11eb-811f-caada09ee613.jpg)
 
